@@ -1,5 +1,7 @@
 # Demonstrates Custom Aggregation with State.
 
+This is described on this [Blog](https://www.kamalsblog.com/2021/09/stateful-aggregation-with-mapgroupswithstate.html) along with demo video
+
 For data stream use  data generator [from here](https://github.com/skamalj/datagenerator)
 
 ## Generator Config used
